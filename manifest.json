@@ -1,0 +1,19 @@
+{
+    "name": "Just Casino \u2013 Play Securely Online in Canada | Just Casino Online",
+    "short_name": "Just Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Just Casino and enjoy secure gaming in Canada. Discover fast withdrawals and legit play | Just Online Casino \u2013 Join Today!",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
